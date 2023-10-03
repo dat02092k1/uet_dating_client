@@ -1,0 +1,10 @@
+.form-container {
+    background: linear-gradient(90deg, #fe3175, #ff6f63);
+    box-shadow: 3px 4px 50px;
+}
+
+.form-content p {
+    text-align: center;
+    color: #ffffff;
+    margin-top: 20px;
+}
