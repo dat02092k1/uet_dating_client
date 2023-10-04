@@ -5,7 +5,7 @@ import Form from '../Form/Form';
 function BaseScreen() {
   return (
     <> 
-    <div className="screen">
+    <div className="screen w-full h-full">
         <Form />
     </div>
     </>
